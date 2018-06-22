@@ -1,0 +1,27 @@
+{
+  "name": "gulp-json-to-scss",
+  "version": "1.0.0",
+  "description": "GULP - transfer json file to scss file in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/dkacha/gulp-json2scss.git"
+  },
+  "keywords": [
+    "json",
+    "scss",
+    "gulp"
+  ],
+  "author": "David Kácha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkacha/gulp-json2scss/issues"
+  },
+  "homepage": "https://github.com/dkacha/gulp-json2scss#readme",
+  "dependencies": {
+    "json2scss": "0.0.2"
+  }
+}
